@@ -32,7 +32,7 @@
     <doc href="../FightClub5eXML/Sources/MonsterManual/bestiary-mm.xml" />
     <doc href="../FightClub5eXML/Sources/MonsterManual/items-mm.xml" />
 
-    
+
     <!-- Supplements -->
     <doc href="../FightClub5eXML/Sources/PrincesOfTheApocalypse/races-eepc.xml" />
 
@@ -55,7 +55,7 @@
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-phb+xge.xml" />
     <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything/spells-xge.xml" />
 
-    
+
     <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/bestiary-mtf.xml" />
     <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/feats-mtf.xml" />
     <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes/items-mtf.xml" />
@@ -476,4 +476,8 @@
     <doc href="../FightClub5eXML/Sources/Homebrew.xml" />
     <doc href="../FightClub5eXML/Sources/ThirdParty/TomeOfBeasts.xml" />
     <doc href="../FightClub5eXML/Sources/ThirdParty/CreatureCodex.xml" />
+
+    <!-- Custom -->
+    <doc href="../FightClub5eXML/Sources/Custom/items-cu.xml" />
+
 </collection>

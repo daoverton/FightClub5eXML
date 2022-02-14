@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+  <item>
+    <name>Weathervane</name>
+    <detail>Wondrous item</detail>
+    <type>W</type>
+    <magic>1</magic>
+    <!-- <weight></weight> -->
+    <!-- <property></property> -->
+    <text>
+      Just a test description for now.
+    </text>
+  </item>
+</compendium>
